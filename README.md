@@ -16,13 +16,13 @@ Note that it is important to install the same version of TensorFlow and other pa
 To use the boilerplate code, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary requirements by running the following command:
+2. Place the file `facenet_keras_128.h5` inside the `models` folder. This file is necessary to run the embedding function for the face.
 
-pip install -r requirements_face.txt
+`pip install -r requirements_face.txt`
 
 or 
 
-conda env create -f environment_face.yaml
+`conda env create -f environment_face.yaml`
 
 3. Run the `test_environment.py` file to test that everything is working correctly.
 
