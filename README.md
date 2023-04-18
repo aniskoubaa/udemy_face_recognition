@@ -4,6 +4,8 @@ This repository contains a boilerplate code for getting started with the Face Re
 
 ## Requirements
 
+First, make sure to use Python 3.7, which is the version used to develop the code. Although it can work with other Python version, I do not give any guarantees to face issues. 
+
 You can find the list of requirements in the following files:
 
 - `requirements_face.txt`: A pip requirements file that includes all the necessary dependencies.
