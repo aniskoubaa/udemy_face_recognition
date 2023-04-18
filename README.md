@@ -28,7 +28,7 @@ or
 
 ## Note on Google Colab
 
-Unfortunately, Google Colab no longer supports older versions of TensorFlow such as TensorFlow 2.0. Therefore, it is required to work locally on your machine to use this boilerplate code.
+Unfortunately, Google Colab no longer supports older versions of TensorFlow such as TensorFlow 2.0. Therefore, it is required to work locally on your machine to use this boilerplate code. However, if you have successfully installed all the necessary requirements on Colab, then the code should work fine on Colab as well.
 
 ## Conclusion
 
